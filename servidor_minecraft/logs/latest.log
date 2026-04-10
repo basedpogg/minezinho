@@ -1,0 +1,142 @@
+[00:00:00] [Server thread/INFO]: [SpigotLibraryLoader] [LoneLibs] Loading 1 libraries... please wait
+[00:00:00] [Server thread/INFO]: [SpigotLibraryLoader] [LoneLibs] Loaded library /workspaces/minezinho/servidor_minecraft/libraries/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar
+[00:00:00] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.8.1
+[00:00:00] [Server thread/INFO]: [ViaVersion] ViaVersion 5.8.1 is now loaded. Registering protocol transformers and injecting...
+[00:00:03] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:00:03] [Via-Mappingloader-1/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:00:06] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[00:00:07] [Server thread/INFO]: [RealisticSeasons] Loading server plugin RealisticSeasons v11.2.1
+[00:00:07] [Server thread/INFO]: [LoneLibs] Loading server plugin LoneLibs v1.0.65
+[00:00:07] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.2.0
+[00:00:07] [Server thread/INFO]: [GSit] Loading server plugin GSit v3.2.0
+[00:00:07] [Server thread/INFO]: [DeadlyDisasters] Loading server plugin DeadlyDisasters v12.1
+[00:00:07] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.11.1
+[00:00:07] [Server thread/INFO]: [BloodMoon] Loading server plugin BloodMoon v1.6
+[00:00:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:00:07] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[00:00:07] [Server thread/INFO]: [LoneLibs] Enabling LoneLibs v1.0.65
+[00:00:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.11.1
+[00:00:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[00:00:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:00:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:00:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:00:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:00:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:00:11] [Server thread/INFO]: Preparing level "world"
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.11.1
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 13491f5
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:00:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:00:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:00:15] [Server thread/INFO]: Time elapsed: 2258 ms
+[00:00:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:00:15] [Server thread/INFO]: Time elapsed: 381 ms
+[00:00:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:00:15] [Server thread/INFO]: Time elapsed: 179 ms
+[00:00:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.8.1
+[00:00:15] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[00:00:16] [Server thread/INFO]: [RealisticSeasons] Enabling RealisticSeasons v11.2.1
+[00:00:16] [Server thread/INFO]: [RealisticSeasons] [STDOUT] [Spigotunlocked.com] - COSMO
+[00:00:16] [Server thread/WARN]: Nag author(s): '[]' of 'RealisticSeasons v11.2.1' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[00:00:16] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.2.0
+[00:00:19] [Thread-11/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[00:00:19] [Thread-11/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[00:00:19] [Server thread/INFO]: [GSit] Enabling GSit v3.2.0
+[00:00:20] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[00:00:20] [Server thread/INFO]: [DeadlyDisasters] Enabling DeadlyDisasters v12.1
+[00:00:20] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:00:21] [Server thread/INFO]: [DeadlyDisasters] Successfully hooked into RealisticSeasons
+[00:00:21] [Server thread/INFO]: [DeadlyDisasters]: There is an optional dependency UIFramework, that adds some custom items to DeadlyDisasters such as the plague cure potion, basic coating enchant, and more! Get UIFramework here: https://www.spigotmc.org/resources/uiframework.110768/
+[00:00:21] [Thread-11/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret verified, ready to connect
+[00:00:21] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] keys setup complete, ready to connect
+[00:00:21] [Thread-11/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :/[2602:fbaf:860:1:0:0:0:1]:5525, error : java.net.SocketException: Network is unreachable
+[00:00:22] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[00:00:22] [Server thread/INFO]: [DeadlyDisasters] Checking for update...
+[00:00:23] [Server thread/INFO]: [BloodMoon] Enabling BloodMoon v1.6
+[00:00:23] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] found minecraft java tunnel: western-lee.gl.joinmc.link
+[00:00:23] [Thread-11/INFO]: playit.gg: tunnel setup
+[00:00:23] [Thread-11/INFO]: playit.gg: western-lee.gl.joinmc.link
+[00:00:23] [Server thread/INFO]: [spark] Starting background profiler...
+[00:00:24] [Server thread/INFO]: Done preparing level "world" (12.236s)
+[00:00:24] [Server thread/INFO]: Running delayed init tasks
+[00:00:24] [Server thread/INFO]: [RealisticSeasons] [STDOUT] [Spigotunlocked.com] - COSMO
+[00:00:24] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[00:00:24] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.20:1514, peerAddr=187.19.222.217:42611, claimAddress=69.9.181.2:43264, claimToken=[44, 0, 104, -109, -71, -35, 20, 5, -22, -69, 19, -34, -39, -90, 115, 55, 101, 49, -40, -87, 0, 105, -40, 61, -104, 0, 0, 0, 0, 0, 5, 109, -86, 0, 0, 0, 0, 0, 91, -121, -41, 0, 0, 0, 0, 0, 55, -114, -25, -88, -73, -87, 0, 0, 0, 0, 0, 34, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 34, 33, 0, -124, 6, 26, 119, 101, 115, 116, 101, 114, 110, 45, 108, 101, 101, 46, 103, 108, 46, 106, 111, 105, 110, 109, 99, 46, 108, 105, 110, 107, 99, -35, 1, -38, 38, -117, 71, 111, 7, 94, 95, 12, 67, 53, -84, -55, 95, -62, 125], tunnelServerId=0, tunnelId=3641063, dataCenterId=34, portOffset=0}
+[00:00:24] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:00:24] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /69.9.181.2:43264 to claim client
+[00:00:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:00:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:00:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:00:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[00:00:24] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:00:26] [Server thread/INFO]: [RealisticSeasons] Total biomes registered on server: 296
+[00:00:26] [Server thread/INFO]: [gg.playit.minecraft.PlayitPipelineInjector] injected playit header decoder into server channel: [id: 0x6baf6d3e, L:/[0:0:0:0:0:0:0:0%0]:25565]
+[00:00:26] [Server thread/INFO]: [gg.playit.minecraft.PlayitBukkit] playit header decoder injected into server pipeline
+[00:00:26] [Server thread/INFO]: Done (49.926s)! For help, type "help"
+[00:00:26] [Server thread/INFO]: Timings Reset
+[00:00:29] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.20:1514, peerAddr=168.232.66.68:34074, claimAddress=69.9.181.2:43784, claimToken=[44, 0, 104, -109, -71, -35, 20, 5, -22, -88, -24, 66, 68, -123, 26, 99, -87, 53, -9, -85, 8, 105, -40, 61, -99, 0, 0, 0, 0, 0, 5, 109, -86, 0, 0, 0, 0, 0, 91, -121, -41, 0, 0, 0, 0, 0, 55, -114, -25, -54, -42, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 34, 33, 0, -124, 6, 26, 119, 101, 115, 116, 101, 114, 110, 45, 108, 101, 101, 46, 103, 108, 46, 106, 111, 105, 110, 109, 99, 46, 108, 105, 110, 107, 99, -35, 1, 45, -49, 86, 104, -93, 48, 108, -11, -114, -6, -80, 21, 92, -83, -3, -81], tunnelServerId=0, tunnelId=3641063, dataCenterId=20, portOffset=0}
+[00:00:29] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:00:29] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /69.9.181.2:43784 to claim client
+[00:00:29] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:00:29] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:00:29] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:00:29] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[00:00:29] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:00:30] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.20:1514, peerAddr=168.232.66.68:34226, claimAddress=69.9.181.2:43784, claimToken=[44, 0, 103, -109, -71, -35, 20, 5, -22, -88, -24, 66, 68, -123, -78, 69, -120, -43, 2, -85, 8, 105, -40, 61, -98, 0, 0, 0, 0, 0, 5, 109, -86, 0, 0, 0, 0, 0, 91, -121, -41, 0, 0, 0, 0, 0, 55, -114, -25, -55, -30, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 33, 32, 0, -124, 6, 25, 119, 101, 115, 116, 101, 114, 110, 45, 108, 101, 101, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 46, 5, -22, 2, 59, 87, -77, 86, 64, -27, -60, -44, 82, -87, 101, 70, 78, 118, 52, 101], tunnelServerId=0, tunnelId=3641063, dataCenterId=20, portOffset=0}
+[00:00:30] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:00:30] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /69.9.181.2:43784 to claim client
+[00:00:30] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:00:30] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:00:30] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:00:30] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[00:00:30] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:00:32] [Netty Epoll Server IO #3/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] parsed playit header, true client IP: /168.232.66.68:34226
+[00:00:32] [Netty Epoll Server IO #3/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] updated connection address on handler: packet_handler
+[00:00:32] [Netty Epoll Server IO #2/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] parsed playit header, true client IP: /168.232.66.68:34074
+[00:00:32] [Netty Epoll Server IO #2/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] updated connection address on handler: packet_handler
+[00:00:32] [User Authenticator #0/INFO]: UUID of player ronaldotemplario is b44f6f89-92ca-3468-a33a-27d0a4e53dc3
+[00:00:33] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[00:00:33] [Server thread/INFO]: ronaldotemplario (/168.232.66.68:34226) lost connection: Disconnected
+[00:00:34] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.20:1514, peerAddr=168.232.66.68:34254, claimAddress=69.9.181.2:43784, claimToken=[44, 0, 104, -109, -71, -35, 20, 5, -22, -88, -24, 66, 68, -123, -50, 90, -85, -81, 22, -85, 8, 105, -40, 61, -94, 0, 0, 0, 0, 0, 5, 109, -86, 0, 0, 0, 0, 0, 91, -121, -41, 0, 0, 0, 0, 0, 55, -114, -25, -27, -11, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 34, 33, 0, -124, 6, 26, 119, 101, 115, 116, 101, 114, 110, 45, 108, 101, 101, 46, 103, 108, 46, 106, 111, 105, 110, 109, 99, 46, 108, 105, 110, 107, 99, -35, 1, 1, -128, -116, -70, 39, -3, 41, -8, -68, -91, 25, 118, 70, 62, 94, 59], tunnelServerId=0, tunnelId=3641063, dataCenterId=20, portOffset=0}
+[00:00:34] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:00:34] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /69.9.181.2:43784 to claim client
+[00:00:34] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:00:34] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:00:34] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:00:34] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[00:00:34] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:00:34] [Netty Epoll Server IO #0/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] parsed playit header, true client IP: /168.232.66.68:34254
+[00:00:34] [Netty Epoll Server IO #0/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] updated connection address on handler: packet_handler
+[00:04:23] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:07:22] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:0014]:1514, peerAddr=[2a01:04f9:006b:f801:be24:11ff:fec1:66c6]:54654, claimAddress=69.9.181.2:43783, claimToken=[64, 0, -110, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 20, 99, -35, 42, 1, 4, -7, 0, 107, -8, 1, -66, 36, 17, -1, -2, -63, 102, -58, -43, 126, 28, 70, -104, 111, -85, 7, 105, -40, 63, 58, 0, 0, 0, 0, 0, 5, 109, -86, 0, 0, 0, 0, 0, 91, -121, -41, 0, 0, 0, 0, 0, 55, -114, -25, -69, 79, -85, 7, 1, 6, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 20, 5, -22, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 33, 30, 0, 47, 24, 119, 101, 115, 116, 101, 114, 110, 45, 108, 101, 101, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 99, -35, 1, 1, 0, -82, 62, 118, -44, -34, -71, 74, -48, -101, -67, -119, -123, -33, -99, 115, 89], tunnelServerId=0, tunnelId=3641063, dataCenterId=44, portOffset=0}
+[00:07:22] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:07:22] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /69.9.181.2:43783 to claim client
+[00:07:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:07:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:07:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:07:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[00:07:22] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:07:22] [Netty Epoll Server IO #1/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] parsed playit header, true client IP: /[2a01:4f9:6b:f801:be24:11ff:fec1:66c6]:54654
+[00:07:22] [Netty Epoll Server IO #1/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] updated connection address on handler: packet_handler
+[00:08:25] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:12:26] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:15:45] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=[2602:fbaf:0838:0001:0000:0000:0000:0014]:1514, peerAddr=[2a01:04f9:006b:f801:be24:11ff:fec1:66c6]:49414, claimAddress=69.9.181.2:43783, claimToken=[64, 0, -110, 38, 2, -5, -81, 8, 56, 0, 1, 0, 0, 0, 0, 0, 0, 0, 20, 99, -35, 42, 1, 4, -7, 0, 107, -8, 1, -66, 36, 17, -1, -2, -63, 102, -58, -63, 6, 29, -18, 74, -128, -85, 7, 105, -40, 65, 49, 0, 0, 0, 0, 0, 5, 109, -86, 0, 0, 0, 0, 0, 91, -121, -41, 0, 0, 0, 0, 0, 55, -114, -25, -20, 96, -85, 7, 1, 6, 38, 2, -5, -81, 8, 56, 0, 1, 0, 0, 0, 0, 0, 0, 0, 20, 5, -22, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 33, 30, 0, 47, 24, 119, 101, 115, 116, 101, 114, 110, 45, 108, 101, 101, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 99, -35, 1, 1, 0, 19, 1, -80, -122, -49, 111, -100, 115, -44, 42, 44, -28, -27, 45, -104, -101], tunnelServerId=0, tunnelId=3641063, dataCenterId=11, portOffset=0}
+[00:15:45] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[00:15:45] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /69.9.181.2:43783 to claim client
+[00:15:45] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[00:15:45] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[00:15:45] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[00:15:45] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[00:15:45] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:15:45] [Netty Epoll Server IO #2/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] parsed playit header, true client IP: /[2a01:4f9:6b:f801:be24:11ff:fec1:66c6]:49414
+[00:15:45] [Netty Epoll Server IO #2/INFO]: [gg.playit.minecraft.PlayitHeaderDecoder] updated connection address on handler: packet_handler
+[00:16:27] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive

@@ -1,0 +1,100 @@
+data:
+  version: 12.1
+  timerValueMemory: 120
+  entries: 3
+  notify: false
+  firstStart: false
+  lang: 0
+  catalogFetchCooldown: 142166
+  currentConfig: DEFAULT
+  favored: 'null'
+  disliked: 'null'
+  catalogVersion: 3
+customentities: {}
+metrics:
+  occurred:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 2
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  spawned:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 2
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  destroyed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 2
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  killed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 2
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+timers:
+  b7bd3cae-913e-4e3f-a0d5-5285e206b3a6:
+    49588b06-86ce-3594-b451-358d657bee44: 94
+    b44f6f89-92ca-3468-a33a-27d0a4e53dc3: 77
+  82cdac7a-0db4-4927-b137-46483ad7d70a:
+    49588b06-86ce-3594-b451-358d657bee44: 126
+    b44f6f89-92ca-3468-a33a-27d0a4e53dc3: 138
+  21e1988f-ea8a-4df6-9acc-6aaebd9926d0:
+    49588b06-86ce-3594-b451-358d657bee44: 172
+    b44f6f89-92ca-3468-a33a-27d0a4e53dc3: 176

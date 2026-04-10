@@ -1,0 +1,18 @@
+players:
+  colorsdisabled: []
+  tempdisabled: []
+  particlesdisabled: []
+  knownplayers:
+  - 49588b06-86ce-3594-b451-358d657bee44
+  - b44f6f89-92ca-3468-a33a-27d0a4e53dc3
+  fahrenheit-mode: []
+worlds:
+  world: WINTER
+dates:
+  world:
+    day: 6
+    month: 12
+    year: 0
+temperature:
+  world: true
+time-paused: []
